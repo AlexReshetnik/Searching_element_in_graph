@@ -8,5 +8,7 @@ I sorted everything and created a separate repository
 
 Git-hub pages -  https://alexreshetnik.github.io/Searching_element_in_graph/
 
+Hold Ctrl to create nodes
+
 An interesting algorithm for finding an element in a tree and a clear display
 
